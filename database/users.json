@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "fullName": "Javi Herrera",
+  "email": "javi@dh.com",
+  "password": "$2a$10$kbHNepDXku1qKDytFK3RpuLtkW/dqMGDi4jXL7lNQUF8lm1HZ2.N.",
+  "country": "Colombia",
+  "avatar": "1609285636788_img.jpg"
+ },
+ {
+  "id": 2,
+  "fullName": "Valeria Yashan",
+  "email": "admin@mail.com",
+  "password": "$2a$10$GEGgpyVIBFXHGIJb/4.5Qe8yFhfDws0T7kOnh6EAuYzEuus3DMKoS",
+  "country": "Argentina",
+  "avatar": "1645022559575_img.jpg"
+ },
+ {
+  "id": 3,
+  "fullName": "popo",
+  "email": "cliente@mail.com",
+  "password": "$2a$10$98vLT3mFN5mfuE7lJRAU6OYk3WTWJb6vMs0qsqw9U3/z7K6o7rLxW",
+  "country": "Bolivia",
+  "avatar": "1645025123643_img.jpg"
+ }
+]
